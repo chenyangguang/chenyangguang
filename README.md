@@ -14,5 +14,3 @@ Currently exploring:
 Happy to chat about product ideas, Shopify development, automation and indie hacking.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=chenyangguang&show_icons=true&count_private=true&theme=radical)
-
-![Metrics](/github-metrics.svg)
